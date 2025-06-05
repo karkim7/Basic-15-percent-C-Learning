@@ -1,1 +1,3 @@
 # Basic-15-percent-C-Learning
+
+# Mero sansar ma afai sajhauxu...
