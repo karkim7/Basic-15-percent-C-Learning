@@ -1,0 +1,15 @@
+/workspaces/Basic-15-percent-C-Learning/bin/Debug/net8.0/Basic-15-percent-C-Learning
+/workspaces/Basic-15-percent-C-Learning/bin/Debug/net8.0/Basic-15-percent-C-Learning.deps.json
+/workspaces/Basic-15-percent-C-Learning/bin/Debug/net8.0/Basic-15-percent-C-Learning.runtimeconfig.json
+/workspaces/Basic-15-percent-C-Learning/bin/Debug/net8.0/Basic-15-percent-C-Learning.dll
+/workspaces/Basic-15-percent-C-Learning/bin/Debug/net8.0/Basic-15-percent-C-Learning.pdb
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/Basic-15-percent-C-Learning.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/Basic-15-percent-C-Learning.AssemblyInfoInputs.cache
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/Basic-15-percent-C-Learning.AssemblyInfo.cs
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/Basic-15-percent-C-Learning.csproj.CoreCompileInputs.cache
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/Basic-15-percent-C-Learning.sourcelink.json
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/Basic-15-percent-C-Learning.dll
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/refint/Basic-15-percent-C-Learning.dll
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/Basic-15-percent-C-Learning.pdb
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/Basic-15-percent-C-Learning.genruntimeconfig.cache
+/workspaces/Basic-15-percent-C-Learning/obj/Debug/net8.0/ref/Basic-15-percent-C-Learning.dll
